@@ -1,0 +1,31 @@
+{
+  "arestas": [
+    {
+      "destino": ".hein_trash\\pessoa.py",
+      "origem": ".hein_trash\\demo.py"
+    }
+  ],
+  "nos": [
+    {
+      "funcoes": 1,
+      "id": "main.py",
+      "label": "main.py",
+      "linhas": 9,
+      "pasta": "."
+    },
+    {
+      "funcoes": 1,
+      "id": ".hein_trash\\demo.py",
+      "label": "demo.py",
+      "linhas": 21,
+      "pasta": ".hein_trash"
+    },
+    {
+      "funcoes": 5,
+      "id": ".hein_trash\\pessoa.py",
+      "label": "pessoa.py",
+      "linhas": 45,
+      "pasta": ".hein_trash"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  ".hein_trash\\demo.py": {
+    "chamadas": [
+      "Pessoa",
+      "main",
+      "print"
+    ],
+    "classes": [],
+    "funcoes": [
+      {
+        "descricao": "Sem descrição",
+        "linhas": 14,
+        "nome": "main"
+      }
+    ],
+    "imports": [
+      "pessoa"
+    ],
+    "linhas": 21
+  },
+  ".hein_trash\\pessoa.py": {
+    "chamadas": [],
+    "classes": [
+      {
+        "descricao": "Representa uma pessoa simples.",
+        "nome": "Pessoa"
+      }
+    ],
+    "funcoes": [
+      {
+        "descricao": "Inicializa uma nova instância de :class:`Pessoa`.",
+        "linhas": 12,
+        "nome": "Pessoa.__init__"
+      },
+      {
+        "descricao": "Retorna uma representação legível da instância.",
+        "linhas": 3,
+        "nome": "Pessoa.__str__"
+      },
+      {
+        "descricao": "Retorna uma mensagem de saudação contendo o nome da pessoa.",
+        "linhas": 3,
+        "nome": "Pessoa.saudacao"
+      },
+      {
+        "descricao": "Verifica se o atributo ``email`` contém o caractere ``@``.",
+        "linhas": 3,
+        "nome": "Pessoa.eh_email_valido"
+      },
+      {
+        "descricao": "Altera o atributo ``nome`` da instância.",
+        "linhas": 8,
+        "nome": "Pessoa.alterar_nome"
+      }
+    ],
+    "imports": [],
+    "linhas": 45
+  },
+  "main.py": {
+    "chamadas": [
+      "main",
+      "print"
+    ],
+    "classes": [],
+    "funcoes": [
+      {
+        "descricao": "Sem descrição",
+        "linhas": 2,
+        "nome": "main"
+      }
+    ],
+    "imports": [],
+    "linhas": 9
+  }
+}

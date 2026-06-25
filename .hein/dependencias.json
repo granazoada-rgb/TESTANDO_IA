@@ -1,0 +1,27 @@
+{
+  "main.py": {
+    "linguagem": "python",
+    "linhas": 9,
+    "classes": [],
+    "funcoes": [
+      {
+        "nome": "main",
+        "params": [],
+        "async": false,
+        "docstring": null
+      }
+    ],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": null
+  },
+  "spec.md": {
+    "linguagem": "md",
+    "linhas": 19,
+    "classes": [],
+    "funcoes": [],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": null
+  }
+}
