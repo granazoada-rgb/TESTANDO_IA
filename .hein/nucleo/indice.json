@@ -65,11 +65,11 @@
     "funcoes": [
       {
         "descricao": "Sem descrição",
-        "linhas": 2,
+        "linhas": 3,
         "nome": "main"
       }
     ],
     "imports": [],
-    "linhas": 9
+    "linhas": 11
   }
 }

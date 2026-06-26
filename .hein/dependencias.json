@@ -1,7 +1,7 @@
 {
   "main.py": {
     "linguagem": "python",
-    "linhas": 9,
+    "linhas": 11,
     "classes": [],
     "funcoes": [
       {
@@ -11,6 +11,15 @@
         "docstring": null
       }
     ],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": null
+  },
+  "README.md": {
+    "linguagem": "md",
+    "linhas": 3,
+    "classes": [],
+    "funcoes": [],
     "imports_locais": [],
     "imports_externos": [],
     "erro_sintaxe": null

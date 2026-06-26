@@ -1,12 +1,12 @@
 # Arquitetura do Projeto
 
-*Gerado automaticamente pelo Núcleo — 25/06/2026 18:55*
+*Gerado automaticamente pelo Núcleo — 25/06/2026 23:24*
 
 ## Módulos
 
-### (raiz)  (1 arq · 1 fn · 0 cls · 9 linhas)
+### (raiz)  (1 arq · 1 fn · 0 cls · 11 linhas)
 
-- `main.py` (9L) — fn: main
+- `main.py` (11L) — fn: main
 
 ### .hein_trash  (2 arq · 6 fn · 1 cls · 66 linhas)
 
@@ -23,7 +23,11 @@
 
 ```
 📂 TESTANDO_IA
-├── main.py  (9L · 1fn)
+├── README.md
+├── VERSION
+├── _019691_-removebg-preview.ico
+├── _019691_-removebg-preview.png
+├── main.py  (11L · 1fn)
 └── spec.md
 ```
 
@@ -31,5 +35,5 @@
 
 | Pasta | Arquivos | Funções | Classes | Linhas |
 |-------|----------|---------|---------|--------|
-| `(raiz)` | 1 | 1 | 0 | 9 |
+| `(raiz)` | 1 | 1 | 0 | 11 |
 | `.hein_trash` | 2 | 6 | 1 | 66 |
